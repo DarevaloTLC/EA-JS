@@ -50,4 +50,3 @@ ChatGpt
 https://javascript.info/
 ```
 https://www.youtube.com/watch?v=PkZNo7MFNFg
-```
